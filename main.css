@@ -1,0 +1,65 @@
+body{
+    background-image: url("https://st2.depositphotos.com/2467867/7747/v/600/depositphotos_77476356-stock-illustration-greek-golden-patterns.jpg");
+background: linear-gradient(351deg,  0%, #665507 90%);
+/* background-repeat: no-repeat; */
+background-position: 50% 0;
+/* background-size: cover; */
+
+
+  
+}
+
+.wrapper{
+    max-width: 850px;
+    margin: 20px auto 25px auto;
+    background-color: rgb(212, 189, 138);
+    
+}
+
+.wrapper img{
+    width: 100%;
+}
+
+.top i{
+    font-size: 300%;
+}
+
+.sendmail{
+    font-size: 300%;
+}
+
+.item1{
+    background-color: rgb(131, 200, 228);
+    width: 48%;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.item2{
+    background-color: rgb(73, 110, 92);
+    width: 48%;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.itemg2{
+    padding: 50px 15px;
+    background-image: url("https://mydiscoveries.ru/wp-content/uploads/2015/06/Auguste_Leloir_-_Hom--re.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-position: 0 80%; */
+}
+
+.itemg3{
+    font-family: 'Regular', sans-serif;
+}
+
+.itemg1{
+    font-family: 'Regular', sans-serif;
+}   
+
+.itemg4{
+    font-family: 'Regular', sans-serif;
+}  
+
